@@ -1,0 +1,47 @@
+---
+layout: homepage
+---
+<div class="column">
+h2. Fundraising at Lighthouse Montessori
+
+A significant part of our yearly budget comes from parent and community fundraising. 
+
+h3. Current Fundraisers
+
+Chinook Books - To purchase a Chinook Book please email info@lighthousemontessori.com
+
+For Small Hands - To learn how to make a purchase to to support the school please email info@lighthousemontessori.com
+
+Fare Trade fundraiser - To learn more please email Emily.
+
+Please use the <a target="_blank" href="http://smile.amazon.com/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=lighthomontes-20&linkId=DUTKF2RMXR2YYRDW">Lighthouse Montessori</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=lighthomontes-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  link to help our school earn money by making purchases on Amazon!
+
+Follow this link to financially support our kids.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="3NWPUJNPWSUGN">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</div>
+<div class="column">
+h2. When do I apply?
+
+We accept applications for up to one year previous to a child's start date. We accept students who will be aged 2 1/2 to 3 1/2 years old by their entry date.
+
+Start getting to know us today!
+
+<a href="/admissions" class="button gray">Apply today!</a>
+
+
+</div>
+<div class="column">
+h2. Who Are We
+
+We are a all year, all day Montessori primary school with all day access to our outside environment. We have two AMI trained guides. For more information about what being AMI trained means, please visit "ami.org":ami.
+
+[ami]http://amiusa.org/school-standards/
+
+!/images/front-of-school.jpg!
+</div>

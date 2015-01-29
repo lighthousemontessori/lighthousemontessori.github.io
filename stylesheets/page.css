@@ -1,0 +1,12 @@
+.full-page .sidebar {
+  display: none; }
+.full-page .left-side {
+  margin-right: 0; }
+
+.image-page .left-side {
+  margin-right: 430px; }
+.image-page .page-content img {
+  float: right;
+  width: 400px;
+  margin-left: 30px;
+  margin-right: -430px; }

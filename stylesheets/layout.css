@@ -1,0 +1,106 @@
+.fixed {
+  margin: 0 auto;
+  width: 930px;
+  text-align: left;
+  position: relative; }
+
+.wide-page .fixed {
+  width: 1060px; }
+
+.content {
+  background-color: white;
+  padding: 10px 0 5em;
+  line-height: 1.3em; }
+
+.header {
+  z-index: 100;
+  background-color: white;
+  padding: 10px 25px 6px;
+  position: relative; }
+  .header .logo {
+    float: left;
+    height: 55px; }
+  .header .user-menu {
+    position: absolute;
+    right: -4px; }
+    .header .user-menu a {
+      font-weight: normal;
+      color: #999999;
+      margin: 0 5px; }
+  .header .menu {
+    position: absolute;
+    right: -12px;
+    bottom: -6px; }
+    .header .menu a {
+      font-weight: normal; }
+
+.banner {
+  z-index: 50;
+  padding: 10px 0 7px; }
+  .banner img {
+    width: 100%;
+    height: 229px; }
+  .banner .title {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: url(/images/mask.png); }
+    .banner .title h1 {
+      color: white; }
+  .banner .subtitle {
+    position: absolute;
+    bottom: 6px;
+    right: 3px; }
+    .banner .subtitle a {
+      color: white; }
+
+.footer {
+  color: white;
+  padding: 1em 0;
+  font-family: "Trebuchet MS", "Lucida Grande", Verdana, Arial, Sans-Serif; }
+  .footer a {
+    color: white;
+    font-weight: bold; }
+  .footer .fixed {
+    text-align: center; }
+
+/* sidebar */
+.left-side {
+  margin-right: 301.667px; }
+
+.sidebar {
+  font: 1em "Lucida Grande", Verdana, Arial, Sans-Serif;
+  padding: 0 0 10px 0;
+  width: 276.667px;
+  border-top: solid 5px black;
+  float: right; }
+  .sidebar h2 {
+    margin: 10px 0 0;
+    padding: 5px;
+    padding: 0; }
+  .sidebar form {
+    margin: 0; }
+  .sidebar .box {
+    border-bottom: solid 2px #222222;
+    padding-bottom: 10px;
+    margin-bottom: 5px; }
+  .sidebar .box2 {
+    background-color: #f4e0af;
+    color: black;
+    padding: 5px 5px 10px;
+    margin: 10px 0; }
+    .sidebar .box2 h2 {
+      margin: 0; }
+    .sidebar .box2 a {
+      background: #093560 url(/images/arrow.png) right center no-repeat;
+      color: white;
+      padding: 1px 27px 3px 7px; }
+      .sidebar .box2 a:hover {
+        text-decoration: none; }
+
+/* posts */
+.post {
+  margin-bottom: 30px; }
+  .post h2 {
+    margin: 0; }

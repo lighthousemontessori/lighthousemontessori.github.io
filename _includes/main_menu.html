@@ -1,0 +1,68 @@
+<script type="text/javascript" charset="utf-8">
+  var timeout    = 500;
+  var closetimer = 0;
+  var ddmenuitem = 0;
+
+  function menu_open()
+  {  menu_canceltimer();
+     menu_close();
+     ddmenuitem = $(this).find('ul').css('visibility', 'visible');}
+
+  function menu_close()
+  {  if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+  function menu_timer()
+  {  closetimer = window.setTimeout(menu_close, timeout);}
+
+  function menu_canceltimer()
+  {  if(closetimer)
+     {  window.clearTimeout(closetimer);
+        closetimer = null;}}
+
+  $(document).ready(function()
+  {  $('.menu > li').bind('mouseover', menu_open)
+     $('.menu > li').bind('mouseout',  menu_timer)});
+
+  document.onclick = menu_close;
+</script>
+<ul class="menu">
+  <li>
+    <a href="/about_us">About Us</a>
+    <ul>
+      <li><a href="/karissa">About Karissa</a></li>
+      <li><a href="/our_mission">Our Mission</a></li>
+      <li><a href="/our_team">Our Team</a></li>
+      <li><a href="/bylaws">Bylaws</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="/classroom">Classroom</a>
+    <ul>
+      <li><a href="/classroom">Overview</a></li>
+      <li><a href="/classroom#logistics">Logistics</a></li>
+      <li><a href="/classroom#the_child">The Child</a></li>
+      <li><a href="/classroom#the_experience">The Experience</a></li>
+    </ul>
+  </li>
+  <li>
+    <a href="/admissions">Admissions</a>
+    <ul>
+      <li><a href="/admissions">Overview</a></li>
+      <li><a href="/tuition">Tuition</a></li>
+      <li><a href="/application_form">Apply Online</a></li>
+      <li><a href="/admission_forms">Forms</a></li>
+    </ul>
+  </li>
+  <li><a href="/get_involved">Get Involved</a></li>
+  <li><a href="/blog">Blog</a></li>
+  <li><a href="/faq">FAQ</a></li>
+  <li>
+    <a href="#">Parents</a>
+    <ul>
+      <li><a href="/calendar">Calendar</a></li>
+      <li><a href="/dropbox/parent_handbook.pdf">Parent Handbook</a></li>
+      <li><a href="/dropbox/disaster_preparedness_policy.pdf">Disaster Policy</a></li>
+    </ul>
+  </li>
+</ul>
+<div class="clear"></div>

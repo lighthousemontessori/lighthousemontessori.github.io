@@ -1,0 +1,23 @@
+title: Lighthouse Montessori School
+email: info@lighthousemontessori.com
+
+paginate: 8
+paginate_path: "/blog/page:num"
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: blog
+
+# Build settings
+markdown: kramdown
+permalink: pretty

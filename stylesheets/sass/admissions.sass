@@ -1,0 +1,34 @@
+$step-box-width: 200px
+$step-padding: 15px
+$step-margin: 30px
+
+.admissions-page
+  .step
+    margin-left: $step-box-width + $step-margin
+    margin-top: 10px
+    clear: left
+    // background-color: gray
+    color: #666
+    h2
+      text-align: center
+      line-height: 1.3em
+      float: left
+      width: $step-box-width - 2*$step-padding
+      padding: 15px $step-padding 18px
+      margin: 0 0 10px 0
+      margin-left: -($step-box-width + $step-margin)
+      font-size: 24px
+      border: solid 2px black
+      -webkit-box-shadow: 5px 5px 5px #000
+      -moz-box-shadow: 5px 5px 5px #000
+      -box-shadow: 5px 5px 5px #000
+      -moz-border-radius: 7px
+      -webkit-border-radius: 7px
+      border-radius: 7px
+      
+  hr
+    background: url(/images/down_arrow.png) no-repeat ($step-box-width / 2 - $step-padding / 2)
+    height: 45px
+    border: none
+    clear: left
+    margin-bottom: -5px

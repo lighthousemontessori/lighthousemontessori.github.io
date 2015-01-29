@@ -1,0 +1,150 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background: #093560; }
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  text-align: center; }
+
+input, select, textarea, option {
+  font-family: inherit;
+  font-size: inherit; }
+
+strong {
+  font-weight: bold; }
+
+em {
+  font-style: italic; }
+
+a {
+  color: #0c4f90;
+  text-decoration: none;
+  font-weight: bold; }
+  a:hover {
+    text-decoration: underline; }
+
+p {
+  margin: 1em 0;
+  line-height: 1.5em; }
+
+small {
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 0.9em;
+  line-height: 1.5em; }
+
+span.sep {
+  margin: 0 0.2em;
+  color: silver; }
+
+.hint {
+  color: #999999; }
+
+/* Headers */
+h1, h2, h3 {
+  font-family: "PT Sans Narrow", arial;
+  /*  font-weight: bold; */ }
+
+h1 a, h2 a, h3 a {
+  font-family: arial;
+  font-size: 14px; }
+
+h1 {
+  font-size: 3.6em;
+  line-height: 1em;
+  padding: 0;
+  color: #093560; }
+
+h2 {
+  font-size: 1.9em;
+  margin: 30px 0 10px;
+  color: #b50905; }
+  h2.a {
+    color: #333333; }
+  h2.pagetitle {
+    margin-top: 30px;
+    text-align: center; }
+
+h3 {
+  font-size: 1.5em;
+  padding: 0;
+  margin: 30px 0 10px;
+  color: #b50905; }
+  h3.comments {
+    padding: 0;
+    margin: 40px auto 20px; }
+
+ul {
+  margin-left: 2em; }
+
+li {
+  list-style-type: circle;
+  margin: 0.5em 0; }
+
+/* errors */
+#error_explanation {
+  color: #990000;
+  border: solid 1px #990000;
+  padding: 10px;
+  margin: 10px 0; }
+  #error_explanation h2 {
+    color: #990000;
+    margin: 0; }
+
+.clear {
+  clear: both; }
+
+/* page content */
+.content, .sidebar, .menu {
+  font-size: 14px; }
+
+.page-content table td, .page-content table th {
+  padding: 2px 4px;
+  border: solid 1px #9ab1d0; }
+
+.sidebar a.press-me {
+  display: block; }
+
+.social-media a img {
+  width: 40px;
+  opacity: 0.6; }
+
+/* google forms */
+.ss-required-asterisk {
+  color: #c43b1d; }
+
+.ss-q-help {
+  color: #666666;
+  display: block;
+  margin: 0.1em 0 0.25em 0; }
+
+.ss-q-title {
+  display: block;
+  font-weight: bold; }
+
+.ss-form-entry {
+  margin-top: 0;
+  margin-bottom: 1.3em; }
+
+.ss-no-ignore-whitespace {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  word-wrap: break-word; }
+
+ul.ss-choices {
+  list-style: none;
+  margin: 0; }
+
+li.ss-choice-item {
+  list-style: none;
+  margin: 0;
+  line-height: 1.3em;
+  padding-bottom: 0.5em; }
+
+.ss-form-container {
+  font-size: 13px; }
+
+.ss-q-long {
+  height: 4em;
+  width: 100%; }

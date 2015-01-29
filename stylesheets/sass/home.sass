@@ -1,0 +1,34 @@
+@import constants.sass
+
+$sidebar-width: 327px
+
+.home-page
+  .banner
+    padding: 5px 0
+    img
+      width: 100%
+      height: auto
+  .column
+    width: ($fixed-width - 2*$side-padding) / 3
+    float: left
+    margin-right: $side-padding
+    &.last
+      margin-right: 0
+    h2
+      margin: 0
+  .sidebar
+    border-top: none
+    width: $sidebar-width
+    .its-a-school
+      text-align: right
+    img
+      margin-bottom: .5em
+  .left-side
+    padding-top: 5em
+    margin: 0 $sidebar-width + 300px 0 13px
+    text-align: justify
+  .actions
+    margin: 1em 0
+    text-align: right
+
+/* home

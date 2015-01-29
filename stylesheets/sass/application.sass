@@ -1,0 +1,161 @@
+@import constants.sass
+
+body, html
+  margin: 0
+  padding: 0
+  background: $dark_blue
+
+body
+  font-family: Arial, sans-serif
+  font-size: 14px
+  text-align: center
+
+input, select, textarea, option
+  font-family: inherit
+  font-size: inherit
+
+strong
+  font-weight: bold
+
+em
+  font-style: italic
+
+a
+  color: $mid-blue
+  text-decoration: none
+  font-weight: bold
+  &:hover
+    text-decoration: underline
+
+p
+  margin: 1em 0
+  line-height: 1.5em
+
+small
+  font-family: Arial, Helvetica, Sans-Serif
+  font-size: 0.9em
+  line-height: 1.5em
+
+span.sep
+  margin: 0 0.2em
+  color: silver
+
+.hint
+  color: #999
+  
+/* Headers
+
+h1, h2, h3
+  // font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif
+  // font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif
+  font-family: 'PT Sans Narrow', arial
+  /*  font-weight: bold;
+
+h1 a, h2 a, h3 a
+  font-family: arial
+  font-size: 14px
+
+h1
+  font-size: 3.6em
+  line-height: 1em
+  // font-size: 2.5em
+  padding: 0
+  color: $dark-blue
+
+h2
+  font-size: 1.9em
+  // font-size: 1.6em
+  margin: 30px 0 10px
+  color: $dark-red
+  &.a
+    color: #333
+  &.pagetitle
+    margin-top: 30px
+    text-align: center
+
+h3
+  font-size: 1.5em
+  padding: 0
+  margin: 30px 0 10px
+  color: $dark-red
+  &.comments
+    padding: 0
+    margin: 40px auto 20px
+
+ul
+  margin-left: 2em
+
+li
+  list-style-type: circle
+  margin: 0.5em 0
+
+/* errors
+
+#error_explanation
+  color: #900
+  border: solid 1px #900
+  padding: 10px
+  margin: 10px 0
+  h2
+    color: #900
+    margin: 0
+
+.clear
+  clear: both
+
+/* page content
+
+.content, .sidebar, .menu
+  font-size: 14px
+
+.page-content table
+  td, th
+    padding: 2px 4px
+    border: solid 1px #9AB1D0
+
+.sidebar a.press-me
+  display: block
+  
+.social-media a img
+  width: 40px
+  opacity: 0.6
+
+/* google forms
+
+.ss-required-asterisk
+  color: #C43B1D
+
+.ss-q-help
+  color: #666
+  display: block
+  margin: .1em 0 .25em 0
+
+.ss-q-title
+  display: block
+  font-weight: bold
+
+.ss-form-entry
+  margin-top: 0
+  margin-bottom: 1.3em
+
+.ss-no-ignore-whitespace
+  white-space: pre-wrap
+  white-space: -moz-pre-wrap
+  word-wrap: break-word
+
+ul.ss-choices
+  list-style: none
+  margin: 0
+
+li.ss-choice-item
+  list-style: none
+  margin: 0
+  line-height: 1.3em
+  padding-bottom: .5em
+
+.ss-form-container
+  font-size: 13px
+
+.ss-q-long
+  height: 4em
+  width: 100%

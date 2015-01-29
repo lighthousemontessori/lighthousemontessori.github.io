@@ -1,0 +1,19 @@
+.blog h1 {
+  color: #999999; }
+.blog .post h2 {
+  padding-bottom: 5px;
+  margin-bottom: 4px;
+  border-bottom: solid 1px black; }
+  .blog .post h2 span a {
+    font-family: arial;
+    font-size: 14px; }
+  .blog .post h2 a {
+    font-family: inherit;
+    font-size: 30px;
+    text-decoration: none; }
+.blog .post-content {
+  margin-top: 10px; }
+
+.byline {
+  color: #b50905;
+  font-style: italic; }
