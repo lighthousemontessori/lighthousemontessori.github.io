@@ -32,12 +32,7 @@ h3. Staff
 </div>
 
 <div class="person-pic">
-  !/images/people/carrie-square.jpg!
-  <div class="about">
-    <h2>Carrie Daugherty</h2>
-    assistant<br/>
-    <i>"I hope to support this community in our shared desire to be compassionate, self-aware, and intentional in our development."</i>
-  </div>
+  
 </div>
 
 <div class="person-pic">
@@ -92,6 +87,5 @@ h3. Board
   <div class="about">
     <h2>Nathan Soccorsy</h2>
     parent representative<br/>
-    <i>"Nathan's blurb is forthcoming."</i>
   </div>
 </div>
