@@ -32,10 +32,6 @@ h3. Staff
 </div>
 
 <div class="person-pic">
-  
-</div>
-
-<div class="person-pic">
   !/images/people/brecca-square.jpg!
   <div class="about">
     <h2>Brecca Smith</h2>
@@ -45,7 +41,6 @@ h3. Staff
 </div>
 
 <div class="person-pic">
-  !/images/people/tianna.jpg!
   <div class="about">
     <h2>Tianna Fallgatter</h2>
     fundraising coordinator<br/>
