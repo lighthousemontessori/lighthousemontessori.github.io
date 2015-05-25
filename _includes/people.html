@@ -1,0 +1,10 @@
+{% for person in include.people %}
+  <div class="person-pic">
+    <img src="/images/people/{{person.name | downcase | replace:' ','-'}}.jpg"/>
+    <div class="about">
+      <h2>{{person.name}}</h2>
+      {{person.role}}<br/>
+      <i>"{{person.quote}}"</i>
+    </div>
+  </div>
+{% endfor %}

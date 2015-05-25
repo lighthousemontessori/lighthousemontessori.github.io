@@ -1,86 +1,84 @@
 ---
 title: Our Team
 css: our-team
+staff:
+- name: Karissa Lightsmith
+  role: teacher / head of school
+  quote: In a very concrete, real way, I know that children can change the culture, language, and beliefs of human society.  I personally want to push that in a positive direction.
+- name: Kevin Van Meter
+  role: teacher
+  quote: I'm here to help give the school a solid foundation and steer it on a good path.
+- name: Garrett Carlson
+  role: office assistant / sub
+  quote: I support our staff and families from the office and I support the children when I sub in the classroom.
+- name: Brecca Smith
+  role: assistant
+  quote: My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I want to see them move with purpose and self-motivation, within an environment that is carefully prepared to provide just what they need. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
+- name: Jason Lien
+  role: assistant
+  quote: coming soon!
+- name: Abby Maxwell
+  role: assistant
+  quote: coming soon!
+board:
+- name: Jeremy Lightsmith
+  role: co-founder, chair
+  quote: I want to create a community around this school, it's children, and their parents.
+- name: Laura Mitchel
+  role: secretary
+  quote: I keep the board organized
+- name: Nathan Soccorsy
+  role: parent representative
+  quote: 
+- name: Ramsey Ness
+  role: treasurer
+  quote: I make sure we know where we are and can get to where we want to be financially.
+- name: Tianna Fallgatter
+  role: fundraising coordinator
+  quote: As a parent in the Lighthouse Family, I know fundraising is hard work! As coordinator, I aspire to motivate those in our school community brave enough to undertake the challenge, and act as a "go-to-gal" to those coordinating events. I keep all our ongoing and upcoming events organized and communicate with the Lighthouse community to keep everyone excited and motivated about our annual goals for the school.
+alumni: 
+- name: Ada Hamilton
+  role: parent representative
+- name: Carrie Daugherty
+  role: assistant
+- name: Ceci Stell
+  role: assistant
+- name: Elizabeth Sylvia
+  role: assistant
+- name: Emily Smith
+  role: treasurer
+- name: Jean Melom
+  role: teacher
+- name: Jen Sexton
+  role: parent representative
+- name: Katrina Kujawa
+  role: guide / administrator
+- name: Michael Smith
+  role: board member
+- name: Rachel Light
+  role: assistant
+
 ---
 h3. Staff
 
-<div class="person-pic">
-  !/images/people/karissa-square.jpg!
-  <div class="about">
-    <h2>Karissa Lightsmith</h2>
-    teacher/head of school<br/>
-    <i>"In a very concrete, real way, I know that children can change the culture, language, and beliefs of human society.  I personally want to push that in a positive direction."</i>
-  </div>
-</div>
-
-<div class="person-pic">
-  !/images/people/kevin-square.jpg!
-  <div class="about">
-    <h2>Kevin Van Meter</h2>
-    teacher<br/>
-    <i>"I'm here to help a give a new school a solid foundation and steer it on a good path."</i>
-  </div>
-</div>
-
-<div class="person-pic">
-  !/images/people/garrett-square.jpg!
-  <div class="about">
-    <h2>Garrett Carlson</h2>
-    office assistant / sub<br/>
-    <i>"I  support our staff and families from the office and I support the children when I sub in the class room."</i>
-  </div>
-</div>
-
-<div class="person-pic">
-  !/images/people/brecca-square.jpg!
-  <div class="about">
-    <h2>Brecca Smith</h2>
-    assistant<br/>
-    <i>"My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I want to see them move with purpose and self-motivation, within an environment that is carefully prepared to provide just what they need. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs."</i>
-  </div>
-</div>
-
-<div class="person-pic">
-  <div class="about">
-    <h2>Tianna Fallgatter</h2>
-    fundraising coordinator<br/>
-    <i>"As a parent in the Lighthouse Family, I know fundraising is hard work! As coordinator, I aspire to motivate those in our school community brave enough to undertake the challenge, and act as a "go-to-gal" to those coordinating events. I keep all our ongoing and upcoming events organized and communicate with the Lighthouse community to keep everyone excited and motivated about our annual goals for the school."</i>
-  </div>
-</div>
+{% include people.html people=page.staff %}
 
 h3. Board
 
-<div class="person-pic">
-  !/images/people/jeremy-square.jpg!
-  <div class="about">
-    <h2>Jeremy Lightsmith</h2>
-    co-founder, chair<br/>
-    <i>"I want to create a community around this school, its children, and their parents."</i>
-  </div>
-</div>
+{% include people.html people=page.board %}
 
-<div class="person-pic">
-  !/images/people/emily-square.jpg!
-  <div class="about">
-    <h2>Emily Smith</h2>
-    treasurer / parent<br/>
-    <i>"I make sure the money is where it needs to be"</i>
-  </div>
-</div>
+h3. Alumni
 
-<div class="person-pic">
-  !/images/people/laura-square.jpg!
-  <div class="about">
-    <h2>Laura Mitchel</h2>
-    secretary<br/>
-    <i>"I keep the board organized"</i>
-  </div>
-</div>
+It takes a village. And we are greatful to all the people that have been our village and helped us get here. These are some of our alumni. Thank you, and best of luck!
 
-<div class="person-pic">
-  !/images/people/nathan-square.jpg!
-  <div class="about">
-    <h2>Nathan Soccorsy</h2>
-    parent representative<br/>
+{% for person in page.alumni %}
+  <div class="person-grid">
+    <div class="person-cell">
+      <img src="/images/people/{{person.name | downcase | replace:' ','-'}}.jpg"/>
+      <div class="caption">
+        <h3>{{person.name}}</h3>
+        <p>{{person.role}}</p>
+      </div>
+    </div>
   </div>
-</div>
+{% endfor %}
