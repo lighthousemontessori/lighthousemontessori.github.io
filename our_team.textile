@@ -16,7 +16,7 @@ staff:
   quote: My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I want to see them move with purpose and self-motivation, within an environment that is carefully prepared to provide just what they need. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
 - name: Jason Lien
   role: assistant
-  quote: coming soon!
+  quote: My goal is to help provide a positive, enriching environment at Lighthouse.  Leading by example and embracing learning opportunities with honesty and compassion are paramount to meeting this goal.
 - name: Abby Maxwell
   role: assistant
   quote: coming soon!
