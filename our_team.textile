@@ -19,7 +19,7 @@ staff:
   quote: My goal is to help provide a positive, enriching environment at Lighthouse.  Leading by example and embracing learning opportunities with honesty and compassion are paramount to meeting this goal.
 - name: Abby Maxwell
   role: assistant
-  quote: coming soon!
+  quote: My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
 board:
 - name: Jeremy Lightsmith
   role: co-founder, chair
