@@ -5,21 +5,21 @@ staff:
 - name: Karissa Lightsmith
   role: teacher / head of school
   quote: In a very concrete, real way, I know that children can change the culture, language, and beliefs of human society.  I personally want to push that in a positive direction.
-- name: Kevin Van Meter
+- name:  Brecca Smith
   role: teacher
-  quote: I'm here to help give the school a solid foundation and steer it on a good path.
+  quote:  My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I want to see them move with purpose and self-motivation, within an environment that is carefully prepared to provide just what they need. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
 - name: Garrett Carlson
   role: office assistant / sub
   quote: I support our staff and families from the office and I support the children when I sub in the classroom.
-- name: Brecca Smith
+- name: Meagan Hadfield
   role: assistant
-  quote: My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I want to see them move with purpose and self-motivation, within an environment that is carefully prepared to provide just what they need. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
-- name: Jason Lien
-  role: assistant
-  quote: My goal is to help provide a positive, enriching environment at Lighthouse.  Leading by example and embracing learning opportunities with honesty and compassion are paramount to meeting this goal.
+  quote: My role at Lighthouse Montessori is to be an encouraging, respectful, and positive role model for the children and to be a dynamic link between the children and the materials, striving to always give them just enough at jut the right time.
 - name: Abby Maxwell
   role: assistant
   quote: My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
+- name: Rhena-Dae Cwiek
+  role: assistant
+  quote: 
 board:
 - name: Jeremy Lightsmith
   role: co-founder, chair
@@ -27,15 +27,12 @@ board:
 - name: Laura Mitchel
   role: secretary
   quote: I keep the board organized
-- name: Nathan Soccorsy
+- name: Diana Hodgins
   role: parent representative
   quote: 
 - name: Ramsey Ness
   role: treasurer
   quote: I make sure we know where we are and can get to where we want to be financially.
-- name: Tianna Fallgatter
-  role: fundraising coordinator
-  quote: As a parent in the Lighthouse Family, I know fundraising is hard work! As coordinator, I aspire to motivate those in our school community brave enough to undertake the challenge, and act as a "go-to-gal" to those coordinating events. I keep all our ongoing and upcoming events organized and communicate with the Lighthouse community to keep everyone excited and motivated about our annual goals for the school.
 alumni: 
 - name: Ada Hamilton
   role: parent representative
