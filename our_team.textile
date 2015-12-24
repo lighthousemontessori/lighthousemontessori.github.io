@@ -36,9 +36,9 @@ board:
 alumni:
 - name: Jason Lien
   role: assistant
-- name: Nathan Scorrsey
+- name: Nathan Soccorsy
   role: parent representative
-- name: Tianna Falgatter
+- name: Tianna Fallgatter
   role: fundraising coordinator
 - name: Ada Hamilton
   role: parent representative
