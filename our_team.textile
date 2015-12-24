@@ -27,13 +27,19 @@ board:
 - name: Laura Mitchel
   role: secretary
   quote: I keep the board organized
-- name: Diana Hodgins
+- name: Diana Spedding
   role: parent representative
   quote: 
 - name: Ramsey Ness
   role: treasurer
   quote: I make sure we know where we are and can get to where we want to be financially.
-alumni: 
+alumni:
+- name: Jason Lien
+  role: assistant
+- name: Nathan Scorrsey
+  role: parent representative
+- name: Tianna Falgatter
+  role: fundraising coordinator
 - name: Ada Hamilton
   role: parent representative
 - name: Carrie Daugherty
