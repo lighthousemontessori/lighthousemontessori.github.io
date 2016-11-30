@@ -9,16 +9,13 @@ p(hint). This is the world we want to create and the world that we work for ever
 
 h2. Mission
 
-In our school, every day: 
-...we care for an environment where children find independence, concentration, 
-and love. 
-...we practice compassion and conflict resolution. 
-...we grow at a sustainable pace. 
-In our community, 
-...we ground ourselves in Montessori principles. 
-...we co-create Montessori families, not just children.
-
-p(hint). * We hope to offer tuition assistance in the next couple years, and in so doing, expand to parents that might not otherwise be able to afford Montessori education for their children. We're not there yet, though.
+|We believe                             |and so we|
+|Children can change the world          |collaborate across our parent/teacher community|
+|                                       |practice Montessori, Positive Discipline, & Nonviolent Communication everyday|
+|Children have an innate desire to learn|actively partner with them in their learning|
+|                                       |meet them where they are & intentionally guide them towards self-fulfilment|
+|Social & emotional development is the foundation for learning|practice compassion & conflict resolution|
+|                                       |connect with the children in every interaction|
 
 h2. Mission Tests
 
