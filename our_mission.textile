@@ -1,5 +1,6 @@
 ---
 title: Our Mission
+css: our-mission
 ---
 h2. Vision
 
@@ -9,14 +10,14 @@ p(hint). This is the world we want to create and the world that we work for ever
 
 h2. Mission
 
-We believe...
-
-|Children can change the world          |...so we collaborate across our parent/teacher community|
-|                                       |...so we practice Montessori, Positive Discipline, & Nonviolent Communication everyday|
-|Children have an innate desire to learn|...so we actively partner with them in their learning|
-|                                       |...so we meet them where they are & intentionally guide them towards self-fulfilment|
-|Social & emotional development is the foundation for learning|...so we practice compassion & conflict resolution|
-|                                       |...so we connect with the children in every interaction|
+table(mission-table).
+|_. We believe                          |_. and so we                                            |
+|/2. Children can change the world          |collaborate across our parent/teacher community|
+|practice Montessori, Positive Discipline, & Nonviolent Communication everyday|
+|/2. Children have an innate desire to learn|actively partner with them in their learning|
+|meet them where they are & intentionally guide them towards self-fulfilment|
+|/2. Social & emotional development is the foundation for learning|practice compassion & conflict resolution|
+|connect with the children in every interaction|
 
 h2. Mission Tests
 
@@ -32,25 +33,20 @@ h2. Simple Rules
 
 p(hint). "Simple Rules":http://simplerulesfoundation.org/ lead to congruence in complex systems, like Schools :). These are the rules that guide our decisions.
 
-h3. 1. Hear all voices
+h3. 1. Listen with curiosity
 
-p(hint). This is about listening and really hearing
+p(hint). Instead of making our own assumptions, in times of conflict and celebration.
 
-h3. 2. Sit on your hands
+h3. 2. Wait and watch
 
-p(hint). When we are tempted to do something for someone that they can do for themselves, we will stop ourselves, even if it means sitting on our hands!
+p(hint). We are aware & responsive, yet we give the space needed for trial and error to unfold. 
 
-h3. 3. Ask for help, even if you don't need it
+h3. 3. Move towards each other
 
-p(hint). We believe asking for help creates trust & community whether it's asking a child to help us wash the dishes, or asking a parent to help us in a bake sale.
+p(hint). We share our experiences when they are great and when they are hard. We choose commecting in all our states because we believe vulnerability builds trust and community.
 
-h3. 4. Protect dignity
+h3. 4. Search for the true need
 
-p(hint). To honor our belief in the capability + evolution of the peaceful child.
+p(hint). We understand that humans are mose resilient and open when their basic and core needs are fulfilled. When we see big emotions, we will look with compassion for the basic needs they point towards. 
 
-h3. 5. Take the next step
-
-p(hint). Acknowledge what's in the way, define the need, and move forward. 
-
-p(hint). Montessori believed that the job of guides is to both meet the child where she is but also to see the child not yet there and clear a pathway for her to bloom. We agree!
 
