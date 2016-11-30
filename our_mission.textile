@@ -9,13 +9,14 @@ p(hint). This is the world we want to create and the world that we work for ever
 
 h2. Mission
 
-|We believe                             |and so we|
-|Children can change the world          |collaborate across our parent/teacher community|
-|                                       |practice Montessori, Positive Discipline, & Nonviolent Communication everyday|
-|Children have an innate desire to learn|actively partner with them in their learning|
-|                                       |meet them where they are & intentionally guide them towards self-fulfilment|
-|Social & emotional development is the foundation for learning|practice compassion & conflict resolution|
-|                                       |connect with the children in every interaction|
+We believe...
+
+|Children can change the world          |...so we collaborate across our parent/teacher community|
+|                                       |...so we practice Montessori, Positive Discipline, & Nonviolent Communication everyday|
+|Children have an innate desire to learn|...so we actively partner with them in their learning|
+|                                       |...so we meet them where they are & intentionally guide them towards self-fulfilment|
+|Social & emotional development is the foundation for learning|...so we practice compassion & conflict resolution|
+|                                       |...so we connect with the children in every interaction|
 
 h2. Mission Tests
 
