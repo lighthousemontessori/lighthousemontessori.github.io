@@ -1,45 +1,11 @@
 ---
 layout: homepage
 ---
-<div class="column">
-h2. Fundraising at Lighthouse Montessori
 
-A significant part of our yearly budget comes from parent and community fundraising. 
+We are an all year, all day Montessori primary school with all day access to our outside environment. We are two trained teachers, three asistants, 26 children, and a community of parents, volunteers, and alumni!
 
-h3. Scholarships at Lighthouse: Support When it Matters Most
+We believe: Children can change the world; Children have an innate desire to learn; Social and emotional development is the foundation for learning.
 
-Living in poverty during the preschool years harms children more than at any other time--academically and economically. But imagine the difference three or four years of tailored learning in a nurturing environment could make for a child living at or below the poverty line.
+Start getting to know us!
 
-Lighthouse scholarships fund a large percentage of tuition for our entire three- to four-year program. Children graduating from Lighthouse carry those years with them for the rest of their lives. We plant the seeds for a life of learning in an environment built to meet their developmental needs. Lighthouse supports children precisely when it can make the biggest difference.
-
-h3. Current Fundraisers
-
-Follow this link to financially support our kids.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="3NWPUJNPWSUGN">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-</div>
-<div class="column">
-h2. When do I apply?
-
-We accept applications for up to one year previous to a child's start date. We accept students nwho will be aged 2 1/2 to 3 1/2 years old by their entry date.
-
-Start getting to know us today!
-
-<a href="/admissions" class="button gray">Apply today!</a>
-
-
-</div>
-<div class="column">
-h2. Who Are We
-
-We are an all year, all day Montessori primary school with all day access to our outside environment. We have two AMI trained guides. For more information about what being AMI trained means, please visit "ami.org":ami.
-
-[ami]http://amiusa.org/school-standards/
-
-!/images/front-of-school.jpg!
-</div>
+--
