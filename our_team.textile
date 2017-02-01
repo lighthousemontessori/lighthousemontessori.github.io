@@ -7,27 +7,24 @@ staff:
   quote: In a very concrete, real way, I know that children can change the culture, language, and beliefs of human society.  I personally want to push that in a positive direction.
 - name:  Brecca Smith
   role: teacher
-  quote:  My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I want to see them move with purpose and self-motivation, within an environment that is carefully prepared to provide just what they need. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
-- name: Garrett Carlson
-  role: office assistant / sub
-  quote: I support our staff and families from the office and I support the children when I sub in the classroom.
-- name: Meagan Hadfield
-  role: assistant
-  quote: My role at Lighthouse Montessori is to be an encouraging, respectful, and positive role model for the children and to be a dynamic link between the children and the materials, striving to always give them just enough at jut the right time.
+  quote:  My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
 - name: Abby Maxwell
   role: assistant
   quote: My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
 - name: Rhena-Dae Cwiek
   role: assistant
   quote: 
+  - name: Tyisha Nedd
+  role: assistant
+  quote: 
 board:
 - name: Jeremy Lightsmith
   role: co-founder, chair
   quote: I want to create a community around this school, it's children, and their parents.
-- name: Laura Mitchel
-  role: secretary
-  quote: I keep the board organized
-- name: Diana Spedding
+- name: Michelle Harrison
+  role: alumni representative & secretary
+  quote: 
+- name: Jenny Roraback-Carson 
   role: parent representative
   quote: 
 - name: Ramsey Ness
@@ -72,7 +69,7 @@ h3. Board
 
 h3. Alumni
 
-It takes a village. And we are greatful to all the people that have been our village and helped us get here. These are some of our alumni. Thank you, and best of luck!
+It takes a village, and we are greatful to all the people that have been our village and helped us get here. These are some of our alumni. Thank you, and best of luck!
 
 {% for person in page.alumni %}
   <div class="person-grid">
