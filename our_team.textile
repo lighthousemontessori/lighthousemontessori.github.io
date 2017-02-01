@@ -17,6 +17,12 @@ staff:
   - name: Tyisha Nedd
   role: assistant
   quote: 
+   - name: Ginger Spaulding
+  role: assistant
+  quote: 
+   - name: Madeleine Poole
+  role: Spanish teacher
+  quote: 
 board:
 - name: Jeremy Lightsmith
   role: co-founder, chair
