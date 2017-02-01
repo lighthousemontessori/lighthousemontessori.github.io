@@ -1,6 +1,13 @@
 ---
-title: Tuition
+title: Program Logistics
 ---
+
+h2. Schedule
+
+We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM.
+
+We are open year-round. 
+
 h2. Tuition 2015-2016
 
 |Extended Day 8:30a-3:30p|$1,121 / month|
@@ -19,10 +26,6 @@ h2. Contract Options
 * *The full year tuition is due regardless of absences, vacation or holidays.*
 * Summer contracts are for incoming families as space permits
 
-Fees
-* $25.00 late fee will be charged daily for any child picked up after their scheduled departure time. 
-* $25.00 fee will be charged for any returned check.
-
 h2. Annual Fees
 
 Registration Fee (per student and non-refundable, is applied to tuition of Kindergarten year)
@@ -30,9 +33,11 @@ Registration Fee (per student and non-refundable, is applied to tuition of Kinde
 |New Families with Application|$500|
 |Returning Families, Due March 15th|$500|
 
-h2. Annual Giving
+h2. Food and Nap
 
-Annual giving is necessary to maintain the high standards of Lighthouse Montessori. 100% participation is expected. We ask each family to contribute (through donation or fundraising) a minimum of the equivalent of one months' tuition. A donation is tax deductible. A payment plan can be arranged.
+The school provides three snacks per day; parents provide a sack lunch. 
+
+Children nap onsite. 
 
 ----
 
