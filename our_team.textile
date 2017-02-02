@@ -47,7 +47,7 @@ alumni:
   role: parent representative
 - name: Carrie Daugherty
   role: assistant
-- name: Rompus Ceci Stell
+- name: Rompas Ceci Stell
   role: assistant
 - name: Elizabeth Sylvia
   role: assistant
