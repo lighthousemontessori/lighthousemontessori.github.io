@@ -1,6 +1,6 @@
---
-Title: Give
---
+---
+title: Give
+---
 
 <a name="give_now"></a>
 
