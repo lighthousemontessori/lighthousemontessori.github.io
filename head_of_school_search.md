@@ -34,3 +34,49 @@ __Planning & Analysis__ – conduct strategic planning
 __Program Support__ – works with staff to create a safe, clean and effective program 
 
 __Programs__ – oversee design and administration of student programs, guides in the classroom for 2-4 work periods a week to maintain connection with staff and students, in accordance with the Lead Teacher’s weekly lesson plan
+
+Required Qualifications
+-----------------------
+
+__Education__ related BS degree, AMS/AMI Primary Diploma  
+
+__Employment__ 5+ years AMI/AMS Primary classroom experience with leadership experience preferred
+
+__Communication__ Strong verbal and written communication, adult education and training experience preferred 
+
+__Fiduciary__ Basic knowledge of accounting practices and  math to perform/oversee simple financial duties
+
+__Reasoning__ Ability to analyze and make autonomous decisions, with accountability
+
+__Relational__ Adept at interacting with Board, staff, parents, donors and community
+
+Desired Characteristics
+-----------------------
+
+Passionate proponent for __Montessori & Positive Discipline__ approaches 
+
+Engaged, effective, transparent, and clear __communication__
+
+Passionate advocacy & commitment to wellbeing of __children__
+
+__Visionary leadership__ through consensus building
+
+__Coaching__ by listening, empowering, & delegating
+
+Ability to develop and maintain strong __relationships__ with children, staff, parents, and community
+
+Acting as articulate __ambassador__ of the school to existing and prospective students and families
+
+__Team__-building by supporting staff work/growth/development
+
+Skilled __mediation__ and commitment to peacefully resolving conflicts
+
+Advocacy for diversity and __social justice__
+
+----
+
+If you are interested in being our next head of school, please submit these documents to info@lighthousemontessori.com:
+
+1. cover letter, highlighting the one desired characteristic (from above) you believe is your greatest asset; 
+2. your resume; and
+3. an essay stating which four Essential Functions (from above) are most important to you and why (less than 300 words)
