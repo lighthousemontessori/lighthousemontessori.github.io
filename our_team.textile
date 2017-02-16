@@ -14,14 +14,17 @@ staff:
 - name: Rhena-Dae Cwiek
   role: assistant
   quote: 
-  - name: Tyisha Nedd
+- name: Tyisha Nedd
   role: assistant
   quote: 
-   - name: Ginger Spaulding
+- name: Ginger Spaulding
   role: assistant
   quote: 
-   - name: Madeleine Poole
+- name: Madeleine Poole
   role: Spanish teacher
+  quote: 
+- name: Katrina Kujawa
+  role: Music Teacher
   quote: 
 board:
 - name: Jeremy Lightsmith
@@ -57,8 +60,6 @@ alumni:
   role: teacher
 - name: Jen Sexton
   role: parent representative
-- name: Katrina Kujawa
-  role: guide / administrator
 - name: Michael Smith
   role: board member
 - name: Rachel Light

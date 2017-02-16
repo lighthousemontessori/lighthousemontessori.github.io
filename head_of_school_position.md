@@ -1,5 +1,6 @@
 ---
-title: Head of School Search
+title: Head of School Position
+css: full-page
 ---
 
 Lighthouse Montessori is looking for a new Head of School to replace it’s founder, who is moving on to pursue a career coaching parents. At 5 years old, our school is healthy and stable. We have 100% enrollment every year, $60K in the bank, and a trusting, involved parent community.
@@ -7,6 +8,8 @@ Lighthouse Montessori is looking for a new Head of School to replace it’s foun
 The Head of School is ultimately responsible for all aspects of school administration and works closely with the Lead Teacher in supervising the classroom. Our lead teacher will be staying, lending continuity to our children and parents.
 
 The Head of School is a full-time, salaried, twelve-month position. Salary is competitive and commensurate with qualifications and experience. Benefits include health insurance support, paid school year holidays, 4 weeks paid personal and vacation time, and a professional development allowance.
+
+----
 
 Essential Functions
 -------------------
@@ -35,6 +38,8 @@ __Program Support__ – works with staff to create a safe, clean and effective p
 
 __Programs__ – oversee design and administration of student programs, guides in the classroom for 2-4 work periods a week to maintain connection with staff and students, in accordance with the Lead Teacher’s weekly lesson plan
 
+----
+
 Required Qualifications
 -----------------------
 
@@ -49,6 +54,8 @@ __Fiduciary__ Basic knowledge of accounting practices and  math to perform/overs
 __Reasoning__ Ability to analyze and make autonomous decisions, with accountability
 
 __Relational__ Adept at interacting with Board, staff, parents, donors and community
+
+----
 
 Desired Characteristics
 -----------------------
@@ -77,6 +84,8 @@ Advocacy for diversity and __social justice__
 
 If you are interested in being our next head of school, please submit these documents to info@lighthousemontessori.com:
 
-1. cover letter, highlighting the one desired characteristic (from above) you believe is your greatest asset; 
-2. your resume; and
-3. an essay stating which four Essential Functions (from above) are most important to you and why (less than 300 words)
+ 1. cover letter, highlighting the one desired characteristic (from above) you believe is your greatest asset; 
+
+ 1. your resume; and
+
+ 1. an essay stating which four Essential Functions (from above) are most important to you and why (less than 300 words)
