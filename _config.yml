@@ -21,3 +21,5 @@ defaults:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+encoding: UTF-8
