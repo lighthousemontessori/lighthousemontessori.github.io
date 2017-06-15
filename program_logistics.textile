@@ -2,6 +2,7 @@
 title: Program Logistics
 ---
 
+
 h2. Schedule
 
 We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 3:30p for maintenance and staff meetings. 
