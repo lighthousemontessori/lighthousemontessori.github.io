@@ -1,0 +1,24 @@
+---
+title: Resources
+---
+
+Books
+-----
+
+"The Secret of Childhood" by Maria Montessori
+"Montessori Madness! A Parent to Parent Argument for Montessori Education" by Trevor Eissler
+
+Articles
+--------
+
+-   [The Montessori Mafia](http://blogs.wsj.com/ideas-market/2011/04/05/the-montessori-mafia/) (Wall Street Journal) - Google, Amazon and other CEOs and Founders credit Montessori for their success
+-   [Montessori Alumni](http://www.postoakschool.org/postoak/Montessori_Students.asp)
+
+Websites
+--------
+
+[Steven Hughs, Pediatric Neuropsychologist](http://www.goodatdoingthings.com/)
+
+[Oregon Montessori Association, Parent Resources](http://oregonmontessori.com/parents/)
+
+[Alfie Kohn, Author and Speaker on Parenting and Education](http://www.alfiekohn.org/)
