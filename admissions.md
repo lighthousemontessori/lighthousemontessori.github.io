@@ -7,9 +7,9 @@ If you're interested go ahead and apply! Here's how...
 
 <br/>
 
-<div class="step">
-1. Get to know us
------------------
+<div class="step" markdown="1">
+
+## 1. Get to know us
 
 We have observations every weekday morning between 10a-11a. Observations are a 1/2 hour long and you can step into the Head of School's office afterwards to chat.
 
@@ -21,9 +21,9 @@ We'll be looking at whether you are a good fit for our community and can make th
 
 ------------------------------------------------------------------------
 
-<div class="step">
-2. Review parent contract
--------------------------
+<div class="step" markdown="1">
+
+## 2. Review parent contract
 
 If you liked what you saw you'll want to check out our [Parent Contract](/admission_forms) to see what you'll be agreeing to as a Lighthouse Montessori Parent. In it, we ask you to :
 
@@ -39,9 +39,9 @@ If you liked what you saw you'll want to check out our [Parent Contract](/admiss
 
 ------------------------------------------------------------------------
 
-<div class="step">
-3. Submit an application
-------------------------
+<div class="step" markdown="1">
+
+## Submit an application
 
 Still Interested? Great! To officially get in line for a space:
 
@@ -53,9 +53,9 @@ Because we usually fill up we use the order that you applied in to decide who ge
 
 ------------------------------------------------------------------------
 
-<div class="step">
-4. Submit contract + deposit
-----------------------------
+<div class="step" markdown="1">
+
+## Submit contract + deposit
 
 We'll let you know as soon as we have a space for you. (This might be when enrollment starts in the spring, right away, or when a new space opens up).
 
