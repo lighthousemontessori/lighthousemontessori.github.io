@@ -13,14 +13,14 @@ This is the world we want to create and the world that we work for every day at 
 Mission
 -------
 
-| We believe                                                                    | and so we                                       |
-|-------------------------------------------------------------------------------|-------------------------------------------------|
-| Children can change the world                                                 | collaborate across our parent/teacher community |
-| practice Montessori, Positive Discipline, & Nonviolent Communication everyday |
-| Children have an innate desire to learn                                       | actively partner with them in their learning    |
-| meet them where they are & intentionally guide them towards self-fulfilment   |
-| Social & emotional development is the foundation for learning                 | practice compassion & conflict resolution       |
-| connect with the children in every interaction                                |
+| _We believe..._                                               | _and so we..._                                                                |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------|
+| Children can change the world                                 | collaborate across our parent/teacher community                               |
+|                                                               | practice Montessori, Positive Discipline, & Nonviolent Communication everyday |
+| Children have an innate desire to learn                       | actively partner with them in their learning                                  |
+|                                                               | meet them where they are & intentionally guide them towards self-fulfilment   |
+| Social & emotional development is the foundation for learning | practice compassion & conflict resolution                                     |
+|                                                               | connect with the children in every interaction                                |
 
 Simple Rules
 ------------
