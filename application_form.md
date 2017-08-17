@@ -3,5 +3,5 @@ title: Application Form
 css: full-page
 ---
 
-<iframe src="http://transparentclassroom.com/schools/2/online_applications/new?naked=true" width="760" height="3000" frameborder="0" marginheight="0" marginwidth="0">
+<iframe src="https://www.transparentclassroom.com/s/2/schools/2/online_applications/new?locale=en&naked=true" width="760px" height="3700px" frameborder="0" marginheight="0" marginwidth="0">
 Loading...</iframe>
