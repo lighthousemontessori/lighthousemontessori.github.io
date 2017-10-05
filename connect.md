@@ -28,7 +28,7 @@ There are two ways to volunteer:
 
 During school:
 
-We love to have experts visit our classroom and teach us! If you know about cooking, scinece, crafts, culture, or just like to read children's books, we can schedule a time for you to visit us.
+We love to have experts visit our classroom and teach us! If you know about cooking, science, crafts, culture, or just like to read children's books, we can schedule a time for you to visit us.
 
 After school:
 
