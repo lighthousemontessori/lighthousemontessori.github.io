@@ -35,7 +35,7 @@ Registration Fee (per student and non-refundable, is applied to tuition of Kinde
 
 ## Food and Nap
 
-The school provides three snacks per day; parents provide a sack lunch. 
+The school provides three organic snacks per day; parents provide a sack lunch. 
 
 Children nap onsite. 
 
