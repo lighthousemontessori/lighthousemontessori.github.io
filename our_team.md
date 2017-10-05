@@ -2,9 +2,9 @@
 title: Our Team
 css: our-team
 staff:
-- name: Karissa Lightsmith
-  role: Teacher / Head of School
-  quote: In a very concrete, real way, I know that children can change the culture, language, and beliefs of human society.  I personally want to push that in a positive direction.
+- name: Cynthia Dahl
+  role: Head of School
+  quote: My goal is to foster a community that feels safe to grow both emotionally and intellectually. This includes parents, staff and the children we serve. 
 - name:  Brecca Smith
   role: Lead Teacher
   quote:  My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
@@ -14,11 +14,17 @@ staff:
 - name: Tyisha Nedd
   role: Assistant
   quote: 
+- name: Lindsay Polnicky
+  role: Assistant
+  quote:
+- name: Ronnie Bush
+  role: Assistant
+  quote:
 - name: Katrina Kujawa
   role: Music Teacher
   quote: 
 board:
-- name: Jenny Roraback-Carson 
+- name: Ferran Canals 
   role: Parent Representative
   quote: 
 - name: Jeremy Lightsmith
@@ -34,6 +40,10 @@ board:
   role: Montessori Expert
   quote: 
 alumni:
+- name: Karissa Lightsmith
+  role: Teacher / Head of School
+- name: Jenny Roraback-Carson
+  role: Parent Representative
 - name: Rhena-Dae Cwiek
   role: Assistant
 - name: Jason Lien
