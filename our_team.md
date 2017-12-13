@@ -18,7 +18,7 @@ staff:
   role: Assistant
   quote:
 - name: Ronnie Bush
-  role: Assistant
+  role: Art Teacher - Assistant
   quote:
 - name: Katrina Kujawa
   role: Music Teacher

@@ -4,7 +4,7 @@ title: Admissions Steps
 
 1. Submit an Application
 
-2. Meet with Karissa - email or call her to set up an appointment (link) at the class (link to class)
+2. Meet with Cynthia - email or call her to set up an appointment (link) at the class (link to class)
 
 3. See the space - in process, etc.
 

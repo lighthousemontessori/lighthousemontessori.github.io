@@ -11,7 +11,7 @@ If you're interested go ahead and apply! Here's how...
 
 ## 1. Get to know us
 
-We have observations every weekday morning between 10a-11a. Observations are a 1/2 hour long and you can step into the Head of School's office afterwards to chat.
+We have observations every Tuesday and Thursday morning between 9:30a-11a. Observations are a 1/2 hour long and you can step into the Outdoor Environment afterwards to chat.
 
 We'll be looking at whether you are a good fit for our community and can make the commitments we expect of our parents. Of course, we expect you to be interviewing us as well. This is an important decision!
 
@@ -59,7 +59,7 @@ Because we usually fill up we use the order that you applied in to decide who ge
 
 We'll let you know as soon as we have a space for you. (This might be when enrollment starts in the spring, right away, or when a new space opens up).
 
-Once you have a space and you're ready to make the commitment bring the filled out contract to the school where you and the Head of School will sign it together. You'll want to [make an appointment](/contact_us).
+Once you have a space and you're ready to make the commitment we will send you a contract electronically to sign. 
 
 We'll also need a non-refundable deposit to hold your space. Make a check for $500 out to "Lighthouse Montessori" - it will be applied to the tuition for your child's kindergarten year.
 
