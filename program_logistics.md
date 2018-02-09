@@ -11,7 +11,7 @@ We are open year-round, with the same staff and program offered at all times.
 ## Tuition 2017-2018
 
 |Extended Day 8:30a-3:30p|$1,155 / month|
-|Dawn to Dusk 7a-6p|$1,350/ month|
+|Dawn to Dusk 7:30a-6p|$1,350/ month|
 
 * A 15% reduction is offered to younger siblings of current students. 
 * A $100/month discount is offered for the kindergarten year.
