@@ -33,7 +33,9 @@ What adults can do to help at home:
 
 Solidify their belonging at home. If kids are feeling distant from family,
 they're more likely to disproportionally seek acceptance among their
-friends. Spend special time together; give new responsibilities and
+friends. 
+
+Spend special time together; give new responsibilities and
 privileges; ask for their help.
 
 Talk frankly about what friendship means and give examples from
