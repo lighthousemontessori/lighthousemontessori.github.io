@@ -16,6 +16,9 @@ The control of error in the Montessori materials provides the child with a perfe
 
 
 References
+
 Alfieri, L.; Brooks, P. J.; Aldrich, N. J.; Tenenbaum, H. R. (2011). Does discovery-based instruction enhance learning? Journal of Educational Psychology, 103 (1),  1-18. doi: 10.1037/a0021017
+
 Montessori, M. (1995). The Absorbent Mind. New York: Holt.
+
 Montessori, M. (1967). The Discovery of the Child. New York: Random House. 
