@@ -85,7 +85,7 @@ alumni:
 
 ### Alumni
 
-It takes a village, and we are greatful to all the people that have been our village and helped us get here. These are some of our alumni. Thank you, and best of luck!
+It takes a village, and we are grateful to all the people that have been our village and helped us get here. These are some of our alumni. Thank you, and best of luck!
 
 {% for person in page.alumni %}
 
