@@ -4,14 +4,14 @@ title: Program Logistics
 
 ## Schedule
 
-We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 3:30p for maintenance and staff meetings. 
+We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 3:30p for maintenance and staff meetings. Starting September 1st, 2018 we will no longer have early dismissals on Friday's. In its place we will have 6 in-service days throughout the year that will be closed to the students and allow the staff the refresh the environment. 
 
 We are open year-round, with the same staff and program offered at all times. 
 
-## Tuition 2017-2018
+## Tuition 2018-2019
 
-|Extended Day 8:30a-3:30p|$1,155 / month|
-|Dawn to Dusk 7:30a-6p|$1,350/ month|
+|Extended Day 8:30a-4:00p|$1,190 / month|
+|Dawn to Dusk 7:30a-6p|$1,410/ month|
 
 * A 15% reduction is offered to younger siblings of current students. 
 * A $100/month discount is offered for the kindergarten year.
@@ -35,7 +35,7 @@ Registration Fee (per student and non-refundable, is applied to tuition of Kinde
 
 ## Food and Nap
 
-The school provides three organic snacks per day; parents provide a sack lunch. 
+The school provides three organic, whole grain vegitarian snacks per day; parents provide a sack lunch. 
 
 Children nap onsite. 
 
