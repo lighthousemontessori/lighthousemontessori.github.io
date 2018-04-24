@@ -41,4 +41,4 @@ We share our experiences when they are great and when they are hard. We choose c
 
 ### 4. Search for the true need
 
-We understand that humans are mose resilient and open when their basic and core needs are fulfilled. When we see big emotions, we will look with compassion for the basic needs they point towards.
+We understand that humans are most resilient and open when their basic and core needs are fulfilled. When we see big emotions, we will look with compassion for the basic needs they point towards.

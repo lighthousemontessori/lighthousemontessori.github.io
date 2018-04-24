@@ -6,18 +6,20 @@ staff:
   role: Head of School
   quote: My goal is to foster a community that feels safe to grow both emotionally and intellectually. This includes parents, staff and the children we serve. 
 - name:  Brecca Smith
-  role: Lead Teacher
+  role: Co-Lead Teacher
   quote:  My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
 - name: Abby Maxwell
-  role: Assistant
+  role: Co-Lead Teacher
   quote: My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
 - name: Tyisha Nedd
   role: Assistant
   quote: 
-- name: Lindsay Polnicky
+- name: Faust Barkovskii
   role: Assistant
   quote:
-- name: Ronnie Bush
+- name: Denn Guerrier
+  role: Assistant
+  quote:- name: Ronnie Bush
   role: Art Teacher - Assistant
   quote:
 - name: Katrina Kujawa
@@ -83,7 +85,7 @@ alumni:
 
 ### Alumni
 
-It takes a village, and we are greatful to all the people that have been our village and helped us get here. These are some of our alumni. Thank you, and best of luck!
+It takes a village, and we are grateful to all the people that have been our village and helped us get here. These are some of our alumni. Thank you, and best of luck!
 
 {% for person in page.alumni %}
 
