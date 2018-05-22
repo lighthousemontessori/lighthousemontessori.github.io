@@ -19,7 +19,8 @@ staff:
   quote:
 - name: Denn Guerrier
   role: Assistant
-  quote:- name: Ronnie Bush
+  quote:
+  - name: Ronnie Bush
   role: Art Teacher - Assistant
   quote:
 - name: Katrina Kujawa
