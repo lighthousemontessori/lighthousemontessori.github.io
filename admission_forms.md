@@ -6,5 +6,5 @@ Once we offer your child a spot at Lighthouse Montessori, we will also assign yo
 
 For now, feel free to look at this contract to see what you will be agreeing to:
 
-### Parent Contract for 2017-18 [(download pdf)](/files/forms/parent_contract_2017-18.pdf)
+### Parent Contract for 2017-18 [(download pdf)](/files/forms/parent_contract_2018-19.pdf)
 
