@@ -5,24 +5,26 @@ staff:
 - name: Cynthia Dahl
   role: Head of School
   quote: My goal is to foster a community that feels safe to grow both emotionally and intellectually. This includes parents, staff and the children we serve. 
-- name:  Brecca Smith
+- name:  Abby Maxwell
   role: Co-Lead Teacher
-  quote:  My goal is to provide a beautiful environment in which children are blossoming, and are in every way respected and responsible. I believe children educated in this way will grow up to be the competent, compassionate adults our society needs.
-- name: Abby Maxwell
+  quote:  My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
+- name: Rocio Holland
   role: Co-Lead Teacher
   quote: My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
-- name: Tyisha Nedd
-  role: Assistant
+- name: Kristina Hess
+  role: Montessori Trained Assistant
   quote: 
 - name: Faust Barkovskii
   role: Assistant
   quote:
-- name: Denn Guerrier
+- name: Jiali Lewis
   role: Assistant
   quote:
-- name: Ronnie Bush
-  role: Art Teacher - Assistant
+- name: Lila Faria
+  role: After School Care Assistant
   quote:
+- name: Denn Guerrier
+  role: French/Science/Reading/Math Teacher, Substitute Assistant
 - name: Katrina Kujawa
   role: Music Teacher
   quote: 
@@ -33,7 +35,7 @@ board:
 - name: Jeremy Lightsmith
   role: Co-founder, Chair
   quote: I want to create a community around this school, it's children, and their parents.
-- name: Michelle Harrison
+- name: January Fredricks
   role: Alumni Representative & Secretary
   quote: 
 - name: Ramsey Ness
@@ -44,9 +46,15 @@ board:
   quote: 
 alumni:
 - name: Karissa Lightsmith
-  role: Teacher / Head of School
+  role: Teacher / Former Head of School / Co-founder
+- name: Brecca Smith
+  role: Teacher
 - name: Jenny Roraback-Carson
   role: Parent Representative
+- name: Michelle Harrison
+  role: Alumni Representative & Secretary
+- name: Tyisha Nedd
+  role: Assistant
 - name: Rhena-Dae Cwiek
   role: Assistant
 - name: Jason Lien
@@ -73,6 +81,8 @@ alumni:
   role: Board Member
 - name: Rachel Light
   role: Assistant
+- name: Ronnie Bush
+  role: Art Teacher / Substitue Assistant
 
 ---
 
