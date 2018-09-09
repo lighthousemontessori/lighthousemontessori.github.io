@@ -4,9 +4,9 @@ title: Program Logistics
 
 ## Schedule
 
-We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 3:30p for maintenance and staff meetings. Starting September 1st, 2018 we will no longer have early dismissals on Friday's. In its place we will have 6 in-service days throughout the year that will be closed to the students and allow the staff the refresh the environment. 
+We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 4:00p for maintenance and staff meetings. We also have 6 in-service days throughout the year that will be closed to the students and allow the staff the refresh the environment. 
 
-We are open year-round, with the same staff and program offered at all times. 
+We are open year-round, with the same staff and program offered at all times. Do do close for the last week in December and for the 10 major US Holidays. 
 
 ## Tuition 2018-2019
 
