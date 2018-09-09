@@ -6,7 +6,7 @@ Who we are
 ----------
 
 <p style="font-size: 1.2em;">
-We are an all year, all day Montessori primary school with all day access to our outside environment. We are two trained teachers, one teacher-in-training, three asistants, twenty-five children, and a community of parents, volunteers, and alumni!
+We are an all year, all day Montessori primary school with all day access to our outside environment. We are two trained teachers, one teacher-in-training, three asistants, one substitute assistant that also provides French lessons, twenty-five children, and a community of parents, volunteers, and alumni!
 </p>
 
 What we believe
