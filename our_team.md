@@ -10,7 +10,7 @@ staff:
   quote:  My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
 - name: Rocio Holland
   role: Co-Lead Teacher
-  quote: My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
+  quote: My main goal is to assist children in achieving their highest potential through Early Childhood Education.
 - name: Kristina Hess
   role: Montessori Trained Assistant
   quote: 
