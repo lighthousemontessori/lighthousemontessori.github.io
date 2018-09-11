@@ -19,7 +19,7 @@ staff:
   quote:
 - name: Jiali Lewis
   role: Assistant
-  quote: "Life is a journey to be experienced, not a problem to be solved." -- Winnie the Pooh
+  quote: "\"Life is a journey to be experienced, not a problem to be solved.\" -- Winnie the Pooh"
 - name: Lila Faria
   role: After School Care Assistant
   quote:
