@@ -13,7 +13,7 @@ staff:
   quote: My main goal is to assist children in achieving their highest potential through Early Childhood Education.
 - name: Kristina Hess
   role: Montessori Trained Assistant
-  quote: 
+  quote: My goal is to help lead a child towards peaceful communication and self-confidence
 - name: Faust Barkovskii
   role: Assistant
   quote:
