@@ -22,7 +22,7 @@ staff:
   quote: "\"Life is a journey to be experienced, not a problem to be solved.\" -- Winnie the Pooh"
 - name: Lila Faria
   role: After School Care Assistant
-  quote:
+  quote: How terribly sad it is that people are made in such a way that they get used to something as extraordinary as living.” - Jostein Gaarder
 - name: Denn Guerrier
   role: French/Science/Reading/Math Teacher, Substitute Assistant
 - name: Katrina Kujawa
