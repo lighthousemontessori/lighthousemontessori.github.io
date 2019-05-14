@@ -11,7 +11,7 @@ If you're interested go ahead and apply! Here's how...
 
 ## 1. Get to know us
 
-We have observations every Tuesday and Thursday morning between 9:30a-11a. Observations are a 1/2 hour long and you can step into the Outdoor Environment afterwards to chat.
+We have observations every Tuesday and Thursday morning at 9:30a. Observations are between a 1/2 hour and an hour long and you can step into the Outdoor Environment afterwards to chat.
 
 We'll be looking at whether you are a good fit for our community and can make the commitments we expect of our parents. Of course, we expect you to be interviewing us as well. This is an important decision!
 
