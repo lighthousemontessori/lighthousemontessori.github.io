@@ -35,6 +35,7 @@ Registration Fee (per student and non-refundable, is applied to tuition of Kinde
 ## Food and Nap
 
 The school provides three organic, whole grain vegitarian snacks per day; parents provide a sack lunch. 
+We are a Peanut Free School.
 
 Children nap onsite. 
 
@@ -44,7 +45,7 @@ Children nap onsite.
 
 ### Parent Education
 
-Commit to attending a minimum of six out of twelve parent education nights a year. By learning more about Montessori methods we believe that you will be able to play a more active part in your child's education.
+Commit to attending a minimum of 1/2 of the parent education nights a year. By learning more about Montessori methods we believe that you will be able to play a more active part in your child's education.
 
 ### Multi-Year Program
 
