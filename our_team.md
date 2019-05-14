@@ -17,9 +17,9 @@ staff:
 - name: Faust Barkovskii
   role: Assistant
   quote:
-- name: Jiali Lewis
+- name: Nicolette Riggins
   role: Assistant
-  quote: "Life is a journey to be experienced, not a problem to be solved.\" -- Winnie the Pooh"
+  quote: 
 - name: Lila Faria
   role: After School Care Assistant
   quote: How terribly sad it is that people are made in such a way that they get used to something as extraordinary as living.” - Jostein Gaarder
@@ -29,7 +29,7 @@ staff:
   role: Music Teacher
   quote: 
 board:
-- name: Ferran Canals 
+- name: LeAnne Chow 
   role: Parent Representative
   quote: 
 - name: Jeremy Lightsmith
