@@ -83,6 +83,8 @@ alumni:
   role: Assistant
 - name: Ronnie Bush
   role: Art Teacher / Substitue Assistant
+- name: Ferran Canals
+  role: Parent Representative
 
 ---
 
