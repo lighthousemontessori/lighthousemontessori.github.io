@@ -5,24 +5,21 @@ staff:
 - name: Cynthia Dahl
   role: Head of School
   quote: My goal is to foster a community that feels safe to grow both emotionally and intellectually. This includes parents, staff and the children we serve. 
-- name:  Abby Maxwell
+- name:  Michael Myers
   role: Co-Lead Teacher
   quote:  My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
-- name: Rocio Holland
+- name: Kristina Hunt
   role: Co-Lead Teacher
   quote: My main goal is to assist children in achieving their highest potential through Early Childhood Education.
-- name: Kristina Hess
+- name: Lila Faria
   role: Montessori Trained Assistant
   quote: My goal is to help lead a child towards peaceful communication and self-confidence
 - name: Faust Barkovskii
   role: Assistant
   quote:
-- name: Nicolette Riggins
+- name: Connor Bailey
   role: Assistant
   quote: 
-- name: Lila Faria
-  role: After School Care Assistant
-  quote: How terribly sad it is that people are made in such a way that they get used to something as extraordinary as living.” - Jostein Gaarder
 - name: Denn Guerrier
   role: French/Science/Reading/Math Teacher, Substitute Assistant
 - name: Katrina Kujawa
@@ -47,6 +44,10 @@ board:
 alumni:
 - name: Karissa Lightsmith
   role: Teacher / Former Head of School / Co-founder
+- name: Abby Maxwell
+  role: Teacher
+- name: Rocio Holland
+  role: Teacher
 - name: Brecca Smith
   role: Teacher
 - name: Jenny Roraback-Carson
