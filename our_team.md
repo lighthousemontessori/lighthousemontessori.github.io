@@ -7,13 +7,13 @@ staff:
   quote: My goal is to foster a community that feels safe to grow both emotionally and intellectually. This includes parents, staff and the children we serve. 
 - name:  Michael Myers
   role: Co-Lead Teacher
-  quote:  My goal is to learn and grown with the students, and to assist in providing an enriching and fulfilling environment.
+  quote:  My goal is to help children hone their mental and physical and spiritual tools, simultaneously facilitating their joy in learning. To support the child's abiliy to be an independent, curious, and lifelong learner.
 - name: Kristina Hunt
   role: Co-Lead Teacher
-  quote: My main goal is to assist children in achieving their highest potential through Early Childhood Education.
+  quote: My main goal is to help lead a child towards peaceful communication and self-confidence.
 - name: Lila Faria
-  role: Montessori Trained Assistant
-  quote: My goal is to help lead a child towards peaceful communication and self-confidence
+  role: Assistant
+  quote: "If you judge a fish by its ability to climb a tree, it will live its whole life believing it is stupid" - Albert Einstein
 - name: Faust Barkovskii
   role: Assistant
   quote:
