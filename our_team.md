@@ -1,4 +1,3 @@
----
 title: Our Team
 css: our-team
 staff:
