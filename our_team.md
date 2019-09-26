@@ -7,7 +7,7 @@ staff:
   quote: My goal is to foster a community that feels safe to grow both emotionally and intellectually. This includes parents, staff and the children we serve. 
 - name:  Michael Myers
   role: Co-Lead Teacher
-  quote:  My goal is to help children hone their mental and physical and spiritual tools, simultaneously facilitating their joy in learning. To support the child's abiliy to be an independent, curious, and lifelong learner.
+  quote:  My goal is to help children hone their mental and physical and spiritual tools, simultaneously facilitating their joy in learning. To support the child's ability to be an independent, curious, and lifelong learner.
 - name: Kristina Hunt
   role: Co-Lead Teacher
   quote: My main goal is to help lead a child towards peaceful communication and self-confidence.
