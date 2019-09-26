@@ -4,9 +4,11 @@ title: Program Logistics
 
 ## Schedule
 
-We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 4:00p for maintenance and staff meetings. We also have 6 in-service days throughout the year that will be closed to the students and allow the staff to refresh the environment. Currently we are only excepting applications for Before Care + Extended Day and Extended Day. 
+We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 4:30p for maintenance and staff meetings. We also have 6 in-service days throughout the year that will be closed to the students and allow the staff to refresh the environment. Currently we are only excepting applications for Before Care + Extended Day and Extended Day. 
 
-We are open year-round, with the same staff and program offered at all times. We do close for the last week in December and for the 10 major US Holidays. 
+We are open year-round, with the same staff and program offered at all times. We do close for the last week in December, the week of July 4th, and for the 10 major US Holidays. 
+
+Kindergarten students' last day is the last Friday of June. 
 
 ## Tuition 2019-2020
 
