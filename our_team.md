@@ -13,7 +13,7 @@ staff:
   quote: My main goal is to help lead a child towards peaceful communication and self-confidence.
 - name: Lila Faria
   role: Assistant
-  quote: "\"If you judge a fish by its ability to climb a tree, it will live its whole life believing it is stupid\" - Albert Einstein"
+  quote: "If you judge a fish by its ability to climb a tree, it will live its whole life believing it is stupid\" - Albert Einstein"
 - name: Faust Barkovskii
   role: Assistant
   quote:
