@@ -88,12 +88,8 @@ alumni:
   role: Parent Representative
 - name: Garrett Carlson
   role: Teacher
-- name: Ginger Spaulding
-  role: Assistant
 - name: Kevin Van Meter
   role: Teacher
-- name: Meagan Johnson
-  role: Trained Assistant
 - name: Nicolette Riggins
   role: Assistant
 
