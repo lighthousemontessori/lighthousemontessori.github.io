@@ -88,8 +88,6 @@ alumni:
   role: Parent Representative
 - name: Garrett Carlson
   role: Teacher
-- name: Kevin Van Meter
-  role: Teacher
 - name: Nicolette Riggins
   role: Assistant
 
