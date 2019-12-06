@@ -57,7 +57,7 @@ Because we usually fill up we use the order that you applied in to decide who ge
 
 We'll let you know as soon as we have a space for you. (This might be when enrollment starts in the spring, right away, or when a new space opens up).
 
-Once you have a space and you're ready to make the commitment we will send you a contract electronically to sign. 
+Once you have a space and you're ready to make the commitment you can <a href="https://www.legup.care/seattle/ballard/daycare/lighthouse-montessori/parent-contract">complete a contract here</a> and make the $500 deposit. This deposit will be applied to the tuition for your child's Kindergarten year.
 
 We'll also need a non-refundable deposit to hold your space. Make a check for $500 out to "Lighthouse Montessori" - it will be applied to the tuition for your child's kindergarten year.
 
