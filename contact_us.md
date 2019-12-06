@@ -4,10 +4,6 @@ title: Contact Us
 
 Want to learn more about us? We would love to hear from you.
 
-Send us an e-mail at :
+We are located at 7005 24th Ave NW, Seattle, WA
 
-<a href="mailto:info@lighthousemontessori.com">info@lighthousemontessori.com</a>
-
-Or give us a call at :
-
-206-201-1730
+<a href="https://www.legup.care/seattle/ballard/daycare/lighthouse-montessorim">Contact us here</a>
