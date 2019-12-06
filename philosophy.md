@@ -28,7 +28,7 @@ We strive to follow traditional, globally proven guidelines (see Montessori trad
 
 ### What This Looks Like
 
-If you schedule a visit → <"https://www.legup.care/seattle/ballard/daycare/lighthouse-montessori/tour”> schedule a visit </a> to our classroom, and we heartily encourage you to do so, you will see children freely moving around our room, limited only by reasonable social and safety boundaries. These children choose work on their own and take it to tables and rugs to work with for as long as they wish.
+Schedule a tour of our classroom, and we heartily encourage you to do so, you will see children freely moving around our room, limited only by reasonable social and safety boundaries. These children choose work on their own and take it to tables and rugs to work with for as long as they wish.
 
 ### The Environment
 
