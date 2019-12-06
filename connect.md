@@ -8,7 +8,7 @@ Contact
 -------
 
 We are located at: 7005 24th Ave NW Seattle, WA
-Contact us here</a> <a href="https://www.legup.care/seattle/ballard/daycare/lighthouse-montessori"> 
+Contact us here</a><a href="https://www.legup.care/seattle/ballard/daycare/lighthouse-montessori"> 
 
 <a name="tour"></a>
 
