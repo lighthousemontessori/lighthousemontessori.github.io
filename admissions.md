@@ -43,9 +43,9 @@ If you liked what you saw you'll want to check out our [Parent Contract](/admiss
 
 Still Interested? Great! To officially get in line for a space:
 
-[Submit an Application](/application_form).
+<a href="https://www.legup.care/seattle/ballard/daycare/lighthouse-montessori/waitlist">Submit an Application </a>
 
-Because we usually fill up we use the order that you applied in to decide who gets in and what position you have on our waiting list. There is a $50 application fee.
+Because we usually fill up we use the order that you applied in to decide who gets in and what position you have on our waiting list. There is a $85 application fee.
 
 </div>
 
