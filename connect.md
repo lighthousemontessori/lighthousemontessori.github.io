@@ -7,7 +7,7 @@ title: Connect
 Contact
 -------
 
-Contact us by email at info@lighthousemontessori.com or by phone at 206-201-1730
+Contact us here</a> <a href="https://www.legup.care/seattle/ballard/daycare/lighthouse-montessori"> 
 We are located at: 7005 24th Ave NW Seattle, WA
 
 <a name="tour"></a>
