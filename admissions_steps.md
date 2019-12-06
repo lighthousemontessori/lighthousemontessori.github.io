@@ -4,7 +4,7 @@ title: Admissions Steps
 
 1. <a href="https://legup.care/seattle/ballard/daycare/lighthouse-montessori/tour"> Request a Tour </a>
 
-2. Meet with Cynthia - email or call her to set up an appointment (link) at the class (link to class)
+2. Meet with Cynthia - Head of School
 
 3. See the space - in process, etc.
 
