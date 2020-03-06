@@ -11,9 +11,9 @@ staff:
 - name: Kristina Hunt
   role: Co-Lead Teacher
   quote: My main goal is to help lead a child towards peaceful communication and self-confidence.
-- name: Lila Faria
+- name: Chantelle Leighton
   role: Assistant
-  quote: If you judge a fish by its ability to climb a tree, it will live its whole life believing it is stupid - Albert Einstein
+  quote:
 - name: Faust Barkovskii
   role: Assistant
   quote:
@@ -90,7 +90,8 @@ alumni:
   role: Teacher
 - name: Nicolette Riggins
   role: Assistant
-
+- name: Lila Faria
+  role: Assistant
 ---
 
 ### Staff
