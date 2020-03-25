@@ -32,7 +32,7 @@ Schedule a tour of our classroom, and we heartily encourage you to do so, you wi
 
 ### The Environment
 
-Following the Montessori tradition, our school is a Casa di Bambini, or Children's House. Whether your child is with us for our morning work period or stays with us through the entire day, with our extended hours (7:30am to 6pm) and beautiful space, we are a safe, comfortable place for your child.
+Following the Montessori tradition, our school is a Casa di Bambini, or Children's House. Whether your child is with us for our morning work period or stays with us through the entire day, with our extended hours (7:30am to 6pm) and beautiful space, we are a safe, comfortable place for your child. 3:30 pm - 6:00 pm available to children between the ages of 4 - 6.
 
 The environment is set up with precision and attention to detail so unexpected discovery and creative adventure can happen inside its safe container. The materials are designed to continually build on each other, allowing children to find patterns and making each new, exciting work reassuringly familiar. This method of indirect preparation builds on previous skills, ensuring each child's future success in working with increasingly difficult materials.
 
