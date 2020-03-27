@@ -4,17 +4,17 @@ title: Program Logistics
 
 ## Schedule
 
-We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 4:30p for maintenance and staff meetings. We also have 6 in-service days throughout the year that will be closed to the students and allow the staff to refresh the environment. Currently we are only accepting applications for Before Care + Extended Day and Extended Day. 
+We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 4:30p for maintenance and staff meetings. We also have 6 in-service days throughout the year that will be closed to the students and allow the staff to refresh the environment. 
 
 We are open year-round, with the same staff and program offered at all times. We are closed for the last week in December, the week of July 4th, and for the 10 major US Holidays. 
 
 Kindergarten students' last day is the last Friday of June. 
 
-## Tuition 2019-2020
+## Tuition 2020-2021
 
-|Before Care + Extended Day 7:30a-3:30p|$1,310 / month|
-|Extended Day 8:30a-3:30p|$1,230 / month|
-|Dawn to Dusk 7:30a-6p|$1,455/ month|
+|Before Care + Extended Day (2.5 yrs - 6 yrs) 7:30a-3:30p|$1,365 / month|
+|Extended Day 8:30a-3:30p (2.5 yrs - 6 yrs)|$1,280 / month|
+|Dawn to Dusk 7:30a-6p (4 yrs - 6 yrs)|$1,515/ month|
 
 * A 15% reduction is offered to younger siblings of current students. 
 * A $100/month discount is offered for the kindergarten year.
