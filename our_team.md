@@ -17,7 +17,7 @@ staff:
 - name: Faust Barkovskii
   role: Assistant
   quote:
-- name: Connor Bailey
+- name: Sadie Bates
   role: Assistant
   quote: 
 - name: Denn Guerrier
