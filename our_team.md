@@ -26,7 +26,7 @@ staff:
   role: Music Teacher
   quote: 
 board:
-- name: LeAnne Chow 
+- name: Katy Roberts 
   role: Parent Representative
   quote: 
 - name: Jeremy Lightsmith
@@ -92,6 +92,8 @@ alumni:
   role: Assistant
 - name: Lila Faria
   role: Assistant
+- name: LeAnne Chow
+  role: Parent Representative
 ---
 
 ### Staff
