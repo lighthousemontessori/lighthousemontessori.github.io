@@ -90,10 +90,10 @@ alumni:
   role: Teacher
 - name: Nicolette Riggins
   role: Assistant
-- name: Lila Faria
-  role: Assistant
 - name: LeAnne Chow
   role: Parent Representative
+- name: Lila Faria
+  role: Assistant
 ---
 
 ### Staff
