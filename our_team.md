@@ -3,18 +3,12 @@ title: Our Team
 css: our-team
 staff:
 - name: Cynthia Dahl
-  role: Head of School
+  role: Head of School - Lead Afternoon Teacher
   quote: My goal is to foster a community that feels safe to grow both emotionally and intellectually. This includes parents, staff and the children we serve. 
 - name:  Michael Myers
-  role: Co-Lead Teacher
+  role: Lead Morning Teacher
   quote:  My goal is to help children hone their mental and physical and spiritual tools, simultaneously facilitating their joy in learning. To support the child's ability to be an independent, curious, and lifelong learner.
-- name: Kristina Hunt
-  role: Co-Lead Teacher
-  quote: My main goal is to help lead a child towards peaceful communication and self-confidence.
 - name: Chantelle Leighton
-  role: Assistant
-  quote:
-- name: Faust Barkovskii
   role: Assistant
   quote:
 - name: Sadie Bates
@@ -44,6 +38,8 @@ board:
 alumni:
 - name: Karissa Lightsmith
   role: Teacher / Former Head of School / Co-founder
+- name: Kristina Hunt
+  role: Teacher
 - name: Abby Maxwell
   role: Teacher
 - name: Rocio Holland
@@ -54,6 +50,8 @@ alumni:
   role: Parent Representative
 - name: Michelle Harrison
   role: Alumni Representative & Secretary
+- name: Faust Barkovskii
+  role: Assistant
 - name: Tyisha Nedd
   role: Assistant
 - name: Rhena-Dae Cwiek
