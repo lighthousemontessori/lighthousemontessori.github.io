@@ -110,7 +110,7 @@ It takes a village, and we are grateful to all the people that have been our vil
 
 <div class="person-grid">
 <div class="person-cell">
-<img src="/images/people/{{person.name | downcase | replace:' ','-'}}.jpg"/>
+<img src="/images/people/{{person.name | downcase | replace:' ','-'}}.jpg" height="400"/>
 
 <div class="caption">
 <h3>
