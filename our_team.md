@@ -56,8 +56,6 @@ alumni:
   role: Assistant
 - name: Jason Lien
   role: Assistant
-- name: Nathan Soccorsy
-  role: Parent Representative
 - name: Tianna Fallgatter
   role: Fundraising Coordinator
 - name: Tyisha Nedd
@@ -92,6 +90,8 @@ alumni:
   role: Parent Representative
 - name: Lila Faria
   role: Assistant
+- name: Nathan Soccorsy
+  role: Parent Representative
 ---
 
 ### Staff
