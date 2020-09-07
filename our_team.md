@@ -52,8 +52,6 @@ alumni:
   role: Alumni Representative & Secretary
 - name: Faust Barkovskii
   role: Assistant
-- name: Tyisha Nedd
-  role: Assistant
 - name: Rhena-Dae Cwiek
   role: Assistant
 - name: Jason Lien
@@ -62,6 +60,8 @@ alumni:
   role: Parent Representative
 - name: Tianna Fallgatter
   role: Fundraising Coordinator
+- name: Tyisha Nedd
+  role: Assistant
 - name: Ada Hamilton
   role: Parent Representative
 - name: Carrie Daugherty
