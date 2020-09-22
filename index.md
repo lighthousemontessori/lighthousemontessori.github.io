@@ -16,4 +16,4 @@ What we believe
 We believe that children can change the world, that children have an innate desire to learn, and that social and emotional development is the foundation for learning. Our vision is to empower our children and the people who surround them to live in peace and service to the world.
 </p>
 
-Click Here to Check Availability
+<a href="https://directory.legup.care/childcare/lighthouse-montessori-school-seattle">Click Here to Check Availability</a>
