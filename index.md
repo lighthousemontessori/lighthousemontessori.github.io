@@ -15,3 +15,5 @@ What we believe
 <p style="font-size: 1.2em;">
 We believe that children can change the world, that children have an innate desire to learn, and that social and emotional development is the foundation for learning. Our vision is to empower our children and the people who surround them to live in peace and service to the world.
 </p>
+
+Click Here to Check Availability
