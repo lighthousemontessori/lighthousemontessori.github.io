@@ -17,6 +17,7 @@ We'll be looking at whether you are a good fit for our community and can make th
 
 [Request an Observation](/observation) to schedule.
 
+<a href="https://directory.legup.care/childcare/lighthouse-montessori-school-seattle">Click Here to Check Availability </a>
 </div>
 
 ------------------------------------------------------------------------
@@ -44,6 +45,8 @@ If you liked what you saw you'll want to check out our [Parent Contract](/admiss
 Still Interested? Great! To officially get in line for a space:
 
 <a href="https://www.legup.care/seattle/ballard/daycare/lighthouse-montessori/waitlist">Submit an Application </a>
+
+<a href="https://directory.legup.care/childcare/lighthouse-montessori-school-seattle">Click Here to Check Availability </a>
 
 Because we usually fill up we use the order that you applied in to decide who gets in and what position you have on our waiting list. There is a $85 application fee.
 
