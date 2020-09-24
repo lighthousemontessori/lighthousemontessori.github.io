@@ -15,7 +15,7 @@ staff:
   role: Assistant
   quote: 
 - name: Denn Guerrier
-  role: French/Science/Reading/Math Teacher, Substitute Assistant
+  role: Assistant
 - name: Katrina Kujawa
   role: Music Teacher
   quote: 
