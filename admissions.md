@@ -11,11 +11,11 @@ If you're interested go ahead and apply! Here's how...
 
 ## 1. Get to know us
 
-We have observations every Tuesday and Thursday morning at 9:30a. Observations are between a 1/2 hour and an hour long and you can step into the Outdoor Environment afterwards to chat.
+We have tours every Tuesday and Thursday morning at 9:30a. Tours are between a 1/2 hour and an hour long and you can step into the Outdoor Environment afterwards to chat.
 
 We'll be looking at whether you are a good fit for our community and can make the commitments we expect of our parents. Of course, we expect you to be interviewing us as well. This is an important decision!
 
-[Request an Observation](/observation) to schedule.
+[Request an Tour](/observation) to schedule.
 
 <a href="https://directory.legup.care/childcare/lighthouse-montessori-school-seattle">Click Here to Check Availability </a>
 </div>
@@ -40,11 +40,9 @@ If you liked what you saw you'll want to check out our [Parent Contract](/admiss
 
 <div class="step" markdown="1">
 
-## Submit an application
+## Join Our Waitlist
 
 Still Interested? Great! To officially get in line for a space:
-
-<a href="https://www.legup.care/seattle/ballard/daycare/lighthouse-montessori/waitlist">Submit an Application </a>
 
 <a href="https://directory.legup.care/childcare/lighthouse-montessori-school-seattle">Click Here to Check Availability </a>
 
