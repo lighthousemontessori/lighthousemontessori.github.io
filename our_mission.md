@@ -37,7 +37,7 @@ We are aware & responsive, yet we give the space needed for trial and error to u
 
 ### 3. Move towards each other
 
-We share our experiences when they are great and when they are hard. We choose commecting in all our states because we believe vulnerability builds trust and community.
+We share our experiences when they are great and when they are hard. We choose connecting in all our states because we believe vulnerability builds trust and community.
 
 ### 4. Search for the true need
 
