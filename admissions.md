@@ -15,6 +15,8 @@ We have tours every Tuesday and Thursday morning at 9:30a. Tours are between a 1
 
 We'll be looking at whether you are a good fit for our community and can make the commitments we expect of our parents. Of course, we expect you to be interviewing us as well. This is an important decision!
 
+[Get to Know our Parent Handbook]<a href="https://s3.amazonaws.com/transparentclassroom.com/schools/2/2019/attachments/e1e00c9b9c635ce673122ddc6916323570c90b96.original.pdf?1583448000">
+
 [Request an Tour](/observation) to schedule.
 
 <a href="https://directory.legup.care/childcare/lighthouse-montessori-school-seattle">Click Here to Check Availability </a>
