@@ -6,7 +6,7 @@ Who we are
 ----------
 
 <p style="font-size: 1.2em;">
-We are an all year, all day Montessori primary school with all day access to our outside environment. For children enrolling that are under the age of 4 dismissal is at 3:30 pm. Once 4 years of age children are welcome to enroll in the 3:30 - 6 pm time slot. We are one AMI Montessori trained Head of School, one AMS Montessori trained lead teacher, three assistants, twenty-five children, and a community of parents, volunteers, and alumni!
+We are an all year, all day Montessori primary school with all day access to our outside environment. For children enrolling that are under the age of 4 dismissal is at 3:30 pm. Once 4 years of age, children are welcome to enroll in the 3:30 - 6 pm time slot. We are one AMI Montessori trained Head of School, one AMS Montessori trained lead teacher, three assistants, twenty-five children, and a community of parents, volunteers, and alumni!
 </p>
 
 What we believe
