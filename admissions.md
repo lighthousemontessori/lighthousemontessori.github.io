@@ -40,7 +40,7 @@ If you liked what you saw you'll want to check out our [Parent Contract](/admiss
 
 <div class="step" markdown="1">
 
-## Join Our Waitlist
+## Check Availability 
 
 Still Interested? Great! To officially get in line for a space:
 
