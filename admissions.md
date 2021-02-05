@@ -17,9 +17,7 @@ We'll be looking at whether you are a good fit for our community and can make th
 
 <a href="https://s3.amazonaws.com/transparentclassroom.com/schools/2/2019/attachments/e1e00c9b9c635ce673122ddc6916323570c90b96.original.pdf?1583448000">Get to Know our Parent Handbook</a>
 
-[Request an Tour](/observation) to schedule.
-
-<a href="https://directory.legup.care/childcare/lighthouse-montessori-school-seattle">Click Here to Check Availability </a>
+<a href="https://directory.legup.care/childcare/lighthouse-montessori-school-seattle">Click Here to Check Availability/Schedule a Tour </a>
 </div>
 
 ------------------------------------------------------------------------
