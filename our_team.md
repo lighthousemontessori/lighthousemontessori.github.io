@@ -3,19 +3,21 @@ title: Our Team
 css: our-team
 staff:
 - name: Cynthia Dahl
-  role: Head of School - Lead Afternoon Teacher
+  role: Head of School 
   quote: My goal is to foster a community that feels safe to grow both emotionally and intellectually. This includes parents, staff and the children we serve. 
 - name:  Michael Myers
-  role: Lead Morning Teacher
+  role: Lead Morning Guide
   quote:  My goal is to help children hone their mental and physical and spiritual tools, simultaneously facilitating their joy in learning. To support the child's ability to be an independent, curious, and lifelong learner.
-- name: Chantelle Leighton
-  role: Assistant
+- name: Lavanya Reddy
+  role: Lead Afternoon Guide
   quote:
 - name: Sadie Bates
   role: Assistant
   quote: 
 - name: Denn Guerrier
   role: Assistant
+- name: Anna Preston
+  role: Assistant 
 - name: Katrina Kujawa
   role: Music Teacher
   quote: 
