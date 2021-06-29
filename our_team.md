@@ -11,12 +11,9 @@ staff:
 - name: Lavanya Reddy
   role: Lead Afternoon Guide
   quote:
-- name: Sadie Bates
-  role: Assistant
-  quote: 
 - name: Denn Guerrier
   role: Assistant
-- name: Anna Preston
+- name: Stella Hawthorne
   role: Assistant 
 - name: Katrina Kujawa
   role: Music Teacher
