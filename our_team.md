@@ -25,7 +25,7 @@ board:
 - name: Jeremy Lightsmith
   role: Co-founder, Chair
   quote: I want to create a community around this school, it's children, and their parents.
-- name: January Fredricks
+- name: January Fredericks
   role: Alumni Representative & Secretary
   quote: 
 - name: Ramsey Ness
