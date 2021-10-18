@@ -11,11 +11,13 @@ staff:
 - name: Lavanya Reddy
   role: Lead Afternoon Guide
   quote:
-- name: Denn Guerrier
+- name: Lily Hardy
   role: Assistant
-- name: Stella Hawthorne
-  role: Assistant 
-- name: Katrina Kujawa
+- name: Rhea Cron
+  role: Assistant
+- name: Marc Rossoff
+  role: Assistant
+- name: Sarah Shannon
   role: Music Teacher
   quote: 
 board:
@@ -25,13 +27,13 @@ board:
 - name: Jeremy Lightsmith
   role: Co-founder, Chair
   quote: I want to create a community around this school, it's children, and their parents.
-- name: January Fredericks
+- name: Julie Vano
   role: Alumni Representative & Secretary
   quote: 
 - name: Ramsey Ness
   role: Treasurer
   quote: I make sure we know where we are and can get to where we want to be financially.
-- name: Tehut Getahun
+- name: Elizabeth Truman
   role: Montessori Expert
   quote: 
 alumni:
@@ -45,10 +47,16 @@ alumni:
   role: Teacher
 - name: Brecca Smith
   role: Teacher
+- name: Denn Guerrier
+  role: Assistant  
 - name: Jenny Roraback-Carson
   role: Parent Representative
 - name: Michelle Harrison
   role: Alumni Representative & Secretary
+- name: January Fredericks
+  role: Alumni Representative & Secretary
+- name: Tehut Getahun
+  role: Montessori Export
 - name: Faust Barkovskii
   role: Assistant
 - name: Rhena-Dae Cwiek
