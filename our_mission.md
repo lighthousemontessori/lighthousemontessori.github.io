@@ -6,7 +6,7 @@ css: our-mission
 Vision
 ------
 
-**We empower our children and the people who surround them to live in peace and service to the world.**
+**To empower our children and the people who surround them to live in peace and service to the world.**
 
 This is the world we want to create and the world that we work for every day at Lighthouse Montessori school. We hope this is a world you are also excited to be part of creating.
 
