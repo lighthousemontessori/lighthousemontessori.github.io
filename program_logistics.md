@@ -12,9 +12,9 @@ Kindergarten students' last day is the last Friday of June.
 
 ## Tuition 2020-2021
 
-|Before Care + Extended Day (2.5 yrs - 6 yrs) 7:30a-3:30p|$1,365 / month|
-|Extended Day 8:30a-3:30p (2.5 yrs - 6 yrs)|$1,280 / month|
-|Dawn to Dusk 7:30a-6p (4 yrs - 6 yrs)|$1,515/ month|
+|Before Care + Extended Day (2.5 yrs - 6 yrs) 7:30a-3:30p|$1,420 / month|
+|Extended Day 8:30a-3:30p (2.5 yrs - 6 yrs)|$1,330 / month|
+|Dawn to Dusk 7:30a-6p (4 yrs - 6 yrs)|$1,580/ month|
 
 * A 15% reduction is offered to younger siblings of current students. 
 * A $100/month discount is offered for the kindergarten year.
