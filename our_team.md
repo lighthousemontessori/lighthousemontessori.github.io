@@ -11,12 +11,17 @@ staff:
 - name: Lavanya Reddy
   role: Lead Afternoon Guide
   quote:
+- name: Kristina Hunt
+  role: Montessori Training Specialist
+  quote:
 - name: Lily Hardy
   role: Assistant
-- name: Rhea Cron
+- name: Lulu Oldham
   role: Assistant
 - name: Marc Rossoff
   role: Assistant
+- name: Vicki Mullins
+  role: Custodian
 - name: Sarah Shannon
   role: Music Teacher
   quote: 
