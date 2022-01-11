@@ -44,8 +44,6 @@ board:
 alumni:
 - name: Karissa Lightsmith
   role: Teacher / Former Head of School / Co-founder
-- name: Kristina Hunt
-  role: Teacher
 - name: Abby Maxwell
   role: Teacher
 - name: Rocio Holland
