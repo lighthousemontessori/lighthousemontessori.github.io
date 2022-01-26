@@ -16,8 +16,6 @@ staff:
   quote:
 - name: Lily Hardy
   role: Assistant
-- name: Lulu Oldham
-  role: Assistant
 - name: Marc Rossoff
   role: Assistant
 - name: Vicki Mullins
