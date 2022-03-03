@@ -22,7 +22,10 @@ staff:
   role: Custodian
 - name: Sarah Shannon
   role: Music Teacher
-  quote: 
+  quote:
+- name: Bailey McCully
+  role: Dance Teacher
+  quote:
 board:
 - name: Katy Roberts 
   role: Parent Representative
