@@ -4,17 +4,17 @@ title: Program Logistics
 
 ## Schedule
 
-We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-TH. We close every Friday at 4:30p for maintenance and staff meetings. We also have 6 in-service days throughout the year that will be closed to the students and allow the staff to refresh the environment. 
+We are a Dawn to Dusk program, open from 7:30 AM until 6:00 PM, M-F. We also have in-service days throughout the year that will be closed to the students and allow the staff to refresh the environment. 
 
-We are open year-round, with the same staff and program offered at all times. We are closed for the last week in December, the week of July 4th, and for the 10 major US Holidays. 
+We are open year-round, with the same staff and program offered at all times. We are closed for the last 2 weeks in December, the week of July 4th, and for the 11 major US Holidays. 
 
 Kindergarten students' last day is the last Friday of June. 
 
-## Tuition 2020-2021
+## Tuition 2022-2023
 
-|Before Care + Extended Day (2.5 yrs - 6 yrs) 7:30a-3:30p|$1,420 / month|
-|Extended Day 8:30a-3:30p (2.5 yrs - 6 yrs)|$1,330 / month|
-|Dawn to Dusk 7:30a-6p (4 yrs - 6 yrs)|$1,580/ month|
+|Before Care + Extended Day (2.5 yrs - 6 yrs) 7:30a-3:30p|$1,520 / month|
+|Extended Day 8:30a-3:30p (2.5 yrs - 6 yrs)|$1,425 / month|
+|Dawn to Dusk 7:30a-6p (4 yrs - 6 yrs)|$1,690 / month|
 
 * A 15% reduction is offered to younger siblings of current students. 
 * A $100/month discount is offered for the kindergarten year.
@@ -31,7 +31,7 @@ Kindergarten students' last day is the last Friday of June.
 
 Registration Fee (per student and non-refundable, is applied to tuition of Kindergarten year)
 
-|New Families with Application|$500|
+|New Families with Application|$600|
 |Returning Families, Due March 15th|$500|
 
 ## Food and Nap
