@@ -11,9 +11,6 @@ staff:
 - name: Lavanya Reddy
   role: Lead Afternoon Guide
   quote:
-- name: Kristina Hunt
-  role: Montessori Training Specialist
-  quote:
 - name: Lily Hardy
   role: Assistant
 - name: Marc Rossoff
@@ -50,6 +47,8 @@ alumni:
 - name: Rocio Holland
   role: Teacher
 - name: Brecca Smith
+  role: Teacher
+- name: Kristina Hunt
   role: Teacher
 - name: Denn Guerrier
   role: Assistant  
