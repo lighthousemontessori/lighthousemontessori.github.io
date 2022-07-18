@@ -36,7 +36,7 @@ Registration Fee (per student and non-refundable, is applied to tuition of Kinde
 
 ## Food and Nap
 
-The school provides three organic, whole grain vegitarian snacks per day; parents provide a sack lunch. 
+The school provides three organic, whole grain vegetarian snacks per day; parents provide a sack lunch. 
 We are a Peanut Free School.
 
 Children nap onsite. 
