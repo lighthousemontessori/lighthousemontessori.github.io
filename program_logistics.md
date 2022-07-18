@@ -51,7 +51,7 @@ Commit to attending a minimum of 1/2 of the parent education nights a year. By l
 
 ### Multi-Year Program
 
-Commit to staying at Lighthouse Montessori through the Kindergarten year. Our Primary program is a three - four year curriculum, and we ask parents to commit to the full cycle leading up to 1st Grade in order to fully realize the benefit of a Montessori Primary education.
+Commit to staying at Lighthouse Montessori through the Kindergarten year. Our Primary program is a three- to four- year curriculum, and we ask parents to commit to the full cycle leading up to 1st Grade in order to fully realize the benefit of a Montessori Primary education.
 
 ### Tuition & Annual Giving
 
